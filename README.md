@@ -1,26 +1,3 @@
-# IMDb Movies Analysis
-
-This repository contains a data analysis project on the top 1000 movies rated by IMDb. The project involves data exploration, cleaning, analysis, and visualization to uncover insights about the movies and their ratings.
-
-## Repository Structure
-
-- `data/`: Contains raw and processed data.
-  - `raw/`: Raw data files.
-    - `movies.csv`: Original dataset of 1000 movies.
-  - `processed/`: Processed data files.
-    - `cleaneddata.csv`: Cleaned dataset after preprocessing.
-- `notebooks/`: Jupyter notebooks for different stages of the analysis.
-  - `01_data_exploration.ipynb`: Initial data exploration and summary statistics.
-  - `02_data_cleaning.ipynb`: Data cleaning and preprocessing steps.
-  - `03_data_analysis.ipynb`: In-depth data analysis and insights.
-  - `04_visualizations.ipynb`: Data visualization and graphical representation of findings.
-- `src/`: Source code for data processing and visualization.
-  - `data_processing.py`: Script for data cleaning and preprocessing.
-  - `data_visualization.py`: Script for generating visualizations.
-  - `analysis_utils.py`: Utility functions for data analysis.
-- `.gitignore`: Specifies files and directories to ignore in the repository.
-- `README.md`: Project overview and instructions.
-
 ## Project Overview
 
 ### Data Exploration
